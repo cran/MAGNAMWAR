@@ -1,8 +1,8 @@
-10cec0fd2cc7a2f01b04e6020673adcf *DESCRIPTION
+b725ee6dd3d6a22ea2f6371cd77b83c2 *DESCRIPTION
 4153e71cd0e2579023584758e5e95a5b *LICENSE
 f4be745bd6d1c37606f1ac30dd6a5d7f *NAMESPACE
-86c7b645dfa6f4b3a6167b7841e5eff6 *NEWS.md
-9eab3459ae5aa1dd3105606d1906125d *R/AnalyzeOrthoMCL.R
+a32bd5171f2afaa0d8678c0e83855468 *NEWS.md
+722039465c445a8c609fefb54e81a9bf *R/AnalyzeOrthoMCL.R
 93d32a26b66dc7f83f596b10704d6c9e *R/CalculatePrincipalCoordinates.R
 f1e68a5be67b519c947274d9dbc91e07 *R/FormatAfterOrtho.R
 8d95b2cc5facf1a0b26a35dbae372329 *R/FormatMCLFastas.R
@@ -12,7 +12,7 @@ f1e68a5be67b519c947274d9dbc91e07 *R/FormatAfterOrtho.R
 e2763ceb531b869bff1ae19477c15d9c *R/SurvAppendMatrix.R
 91a4537354234d5d3257692d66452ac1 *R/WriteMCL.R
 629abd73953bd022e1d2a24aea11bbb0 *R/doc.R
-190e558ef9b84e5857e5597c09189d9e *R/graphics.R
+bcd90d5d0486c1820b1aa2264a8e1eb4 *R/graphics.R
 9022bc4b262849bc5127de12d3de0216 *README.md
 ed1683b2af8ec03cd752def535919c73 *build/vignette.rds
 dad53b150eb75ea550202a0eec68657a *data/after_ortho_format.rda
@@ -24,8 +24,8 @@ ec1601bbb7f4fd81a5ac7108597aab29 *data/after_ortho_format_grps.rda
 c60700663fa9c96df2e0e95b31c78e32 *data/pheno_data.rda
 45da42bcec0eec0480286cbff6ad4d9e *data/starv_pheno_data.rda
 96df14e766eaf601fbe763499219a2c3 *inst/doc/using_mag.R
-be4641f1e213cc1a617c511eb8ed9262 *inst/doc/using_mag.Rmd
-59bc0747745dc8d574fbef1403d5211f *inst/doc/using_mag.html
+9277036cae8ccc163ba6bc4b2347a687 *inst/doc/using_mag.Rmd
+5afb88b11771fcd2cd9ea97df30d61e6 *inst/doc/using_mag.html
 dd8b0081417995e791b677fb8eb07847 *inst/extdata/RASTtoGBK/lfrc.fasta
 46c789bab44932d7ac9a6c4bb3e02a8c *inst/extdata/RASTtoGBK/lfrc_lookup.csv
 55da80470bf5768a8038e5067a5bcac9 *inst/extdata/RASTtoGBK/lfrc_out.fasta
@@ -106,4 +106,4 @@ f72da5b7f5931349f7c95087845bcc91 *man/joined_mtrx.Rd
 d2f07214aa709df38081fff1aed83cb3 *man/mcl_mtrx_grps.Rd
 5e400e0262bdb30dc63cb0c41b3714a0 *man/pheno_data.Rd
 5169629ae0f84debb6f7df9e2d97a887 *man/starv_pheno_data.Rd
-be4641f1e213cc1a617c511eb8ed9262 *vignettes/using_mag.Rmd
+9277036cae8ccc163ba6bc4b2347a687 *vignettes/using_mag.Rmd
