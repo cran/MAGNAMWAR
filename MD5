@@ -1,11 +1,11 @@
-b725ee6dd3d6a22ea2f6371cd77b83c2 *DESCRIPTION
+2b5f9ddd799bda3f7e6d314f83ffaf92 *DESCRIPTION
 4153e71cd0e2579023584758e5e95a5b *LICENSE
 f4be745bd6d1c37606f1ac30dd6a5d7f *NAMESPACE
 a32bd5171f2afaa0d8678c0e83855468 *NEWS.md
 722039465c445a8c609fefb54e81a9bf *R/AnalyzeOrthoMCL.R
 93d32a26b66dc7f83f596b10704d6c9e *R/CalculatePrincipalCoordinates.R
 f1e68a5be67b519c947274d9dbc91e07 *R/FormatAfterOrtho.R
-8d95b2cc5facf1a0b26a35dbae372329 *R/FormatMCLFastas.R
+1dbb5a863a7dd647eba144743ba4aa4b *R/FormatMCLFastas.R
 1b30d981ad780de86a545478a76e0eec *R/JoinRepSeq.R
 5a582104862fe561732f185f09370d0b *R/PrintOGSeqs.R
 09f91d510c0775d83695ec92cd3595de *R/RASTtoGBK.R
@@ -25,7 +25,7 @@ c60700663fa9c96df2e0e95b31c78e32 *data/pheno_data.rda
 45da42bcec0eec0480286cbff6ad4d9e *data/starv_pheno_data.rda
 96df14e766eaf601fbe763499219a2c3 *inst/doc/using_mag.R
 9277036cae8ccc163ba6bc4b2347a687 *inst/doc/using_mag.Rmd
-5afb88b11771fcd2cd9ea97df30d61e6 *inst/doc/using_mag.html
+bf85d9444a28618b141ee9568f2c4f2b *inst/doc/using_mag.html
 dd8b0081417995e791b677fb8eb07847 *inst/extdata/RASTtoGBK/lfrc.fasta
 46c789bab44932d7ac9a6c4bb3e02a8c *inst/extdata/RASTtoGBK/lfrc_lookup.csv
 55da80470bf5768a8038e5067a5bcac9 *inst/extdata/RASTtoGBK/lfrc_out.fasta
